@@ -1,0 +1,4 @@
+name: guiLib
+version: '${project.version}'
+main: pl.marekdev.guilib.GuiLibPlugin
+api-version: '1.20'
